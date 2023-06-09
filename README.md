@@ -3,4 +3,5 @@
 *Cursiva*
 -Lista 1
 -Lista 2
-https://google.com #Google
+[Perfil Linkdin](https://www.linkedin.com/in/fernandoquille/)
+[Perfil Instagram](https://www.instagram.com/fercho_fercheins/)
