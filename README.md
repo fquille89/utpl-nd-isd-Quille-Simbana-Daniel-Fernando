@@ -7,11 +7,11 @@ ___________________________________________________________________
 
 ## Estudios
 
-- Ing. en Sistemas en la Univesidad Politécnica Salesiana
+- Ing. en Sistemas en la Univesidad Politécnica Salesiana.
 
-- Diplomado en neogicios digitales en la Universidad de las Américas
+- Diplomado en neogicios digitales en la Universidad de las Américas.
 
-- Certificacación de técnicas de ventas en la USFQ
+- Certificacación de técnicas de ventas en la USFQ.
 
 ## Experiencia laboral
 
